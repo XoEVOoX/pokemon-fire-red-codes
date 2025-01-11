@@ -756,8 +756,10 @@ This code is necessary for many RAM modding codes.
 If codes need this the creator will tell you. Before using such codes
 enable this code and enter a different area.
 
-`8D671FD9 6F6BEFF2`
-`78DA95DF 44018CB4`
+| Code                                       |
+| ------------------------------------------ |
+| `8D671FD9 6F6BEFF2`<br>`78DA95DF 44018CB4` |
+
 
 ### Walk trough Walls
 
@@ -765,5 +767,6 @@ enable this code and enter a different area.
 the game will crash it will not mess up your save but it will crash and you
 will need to restart
 
-`509197D3 542975F4`
-`78DA95DF 44018CB4`
+| Code                                       |
+| ------------------------------------------ |
+| `509197D3 542975F4`<br>`78DA95DF 44018CB4` |
