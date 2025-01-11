@@ -13,7 +13,7 @@ Master Code for POKEMON FIRE USA 🔴
 
 Master Code for POKEMON LEAF USA 🟢
 
-`72BC6DFB E9CA5465`
+| `72BC6DFB E9CA5465` |
 `56671F3A 6F4F4D6B`
 
 Master Code for POKEMON FIRE JP 🔴
