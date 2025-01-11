@@ -321,7 +321,7 @@ Mews will be different though.
 ### Pokemon Level Codes
 #### Pokemon Level Master Codes
 
-| Fire Red(US)        | LEaf Green(US)      |
+| Fire Red(US)        | Leaf Green(US)      |
 | ------------------- | ------------------- |
 | `754ED27A 8B1BEFEE` | `CCD017E8 EF04228C` |
 
