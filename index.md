@@ -1,4 +1,4 @@
-![[Pasted image 20250111103225.png]]
+![Banner][/assets/pokemon_fire_red_leaf_green_main_169.jpg]
 ## Master Codes
 
 A **Master Code** is a special type of cheat code used in conjunction with Action Replay or other cheat devices. It acts as an enabler for other cheat codes to work correctly. Often required for more complex cheats, it ensures the device is activated and that additional codes (like item modifiers, infinite health, etc.) will function properly. The Master Code is usually entered first and remains active while other codes are used in conjunction. Without the Master Code, some cheats may fail to work or cause errors in gameplay.
