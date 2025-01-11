@@ -383,11 +383,10 @@ them if you use it often.
 
 Note: Press L+R before using the Pokeball.
 
-USA
-4D83B1BF E0F5F507
-8E883EFF 92E9660D
-B6C5368A 08BE8FF4
-90B4977C C0151DC2
+| Fire Red/Leaf Green(US)                                                                  |
+| ---------------------------------------------------------------------------------------- |
+| `4D83B1BF E0F5F507`<br>`8E883EFF 92E9660D`<br>`B6C5368A 08BE8FF4`<br>`90B4977C C0151DC2` |
+
 
 ### Pokemon Nature Codes
 
