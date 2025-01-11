@@ -372,6 +372,10 @@ Ruby/Sapphire Pokemon codes and/or Level codes.
 gender/Unknown-shape/Ability so it will be quite easy to spot
 them if you use it often.
 
+| Fire Red/Leaf Green(US)                                                                                                                | Fire Red/Leaf Green(JP)                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `39584B19 D80CC66A`<br>`CE71B3D3 1F6A85FB`<br>`198DF179 5413C867`<br>`73ECB8A0 BDD8B251`<br>`D5AFFB37 6855972C`<br>`73ECB8A0 BDD8B251` | `C29236EF 339B47E6`<br>`CE71B3D3 1F6A85FB`<br>`1A7E0A62 FA2532C3`<br>`73ECB8A0 BDD8B251`<br>`0282C46A 776465FD`<br>`73ECB8A0 BDD8B251` |
+
 USA
 `39584B19 D80CC66A`
 `CE71B3D3 1F6A85FB`
@@ -387,6 +391,7 @@ Japanese
 `73ECB8A0 BDD8B251`
 `0282C46A 776465FD`
 `73ECB8A0 BDD8B251`
+
 
 ---
 
