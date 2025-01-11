@@ -6,25 +6,13 @@
 
 A **Master Code** is a special type of cheat code used in conjunction with Action Replay or other cheat devices. It acts as an enabler for other cheat codes to work correctly. Often required for more complex cheats, it ensures the device is activated and that additional codes (like item modifiers, infinite health, etc.) will function properly. The Master Code is usually entered first and remains active while other codes are used in conjunction. Without the Master Code, some cheats may fail to work or cause errors in gameplay.
 
-Master Code for POKEMON FIRE USA 🔴
+| Pokemon Fire Red(US)                       | Pokemon Leaf Green(US)                     |
+| ------------------------------------------ | ------------------------------------------ |
+| `72BC6DFB E9CA5465`<br>`A47FB2DC 1AF3CA86` | `72BC6DFB E9CA5465`<br>`56671F3A 6F4F4D6B` |
 
-`72BC6DFB E9CA5465`
-`A47FB2DC 1AF3CA86`
-
-Master Code for POKEMON LEAF USA 🟢
-
-| `72BC6DFB E9CA5465` |
-`56671F3A 6F4F4D6B`
-
-Master Code for POKEMON FIRE JP 🔴
-
-`8FA79C07 CABE13C8`
-`F0826040 FE465C57`
-
-Master Code for POKEMON LEAF JP 🟢
-
-`8FA79C07 CABE13C8`
-`2FD2DBC6 552BC912`
+| Pokemon Fire Red(JP)                       | Pokemon Leaf Green(JP)                     |
+| ------------------------------------------ | ------------------------------------------ |
+| `8FA79C07 CABE13C8`<br>`F0826040 FE465C57` | `8FA79C07 CABE13C8`<br>`2FD2DBC6 552BC912` |
 
 They work with the codes here - but they might not work with codes
 you find elsewhere. We know that's a shame but there is currently not a solution.
