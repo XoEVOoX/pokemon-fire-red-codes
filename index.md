@@ -41,7 +41,7 @@ So if you want a Bulbasaur in Leaf Green (JP) use:
 `337BE38E E583889C` ⬅️ Leaf Green (JP) code
 `AD86124F 2823D8DA` ⬅️ Bulbasaur code
 
-==NOTE:== **The following codes have only been spot tested. Please reach out of some codes don't work.**
+==NOTE:== **The following codes have only been spot tested. Please reach out if some codes don't work.**
 
 ---
 
